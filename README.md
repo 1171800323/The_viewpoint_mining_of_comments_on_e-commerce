@@ -26,4 +26,5 @@
     6. http://colah.github.io/posts/2015-08-Understanding-LSTMs/
     7. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
+### 这是一个两人合作完成的项目，感谢：https://github.com/1171100215
 
